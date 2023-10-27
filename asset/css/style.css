@@ -335,4 +335,17 @@
     text-align: center;
     line-height: 2;
 }
+/*chi tiet san pham*/
+.buy-now-button {
+    background-color: red; 
+    /*display: inline-block;*/
+    padding: 5px 10px; 
+    text-align: center;
+    margin: 0; 
+}
+
+.buy-now-button a {
+    color: white; 
+    text-decoration: none; 
+}
 
